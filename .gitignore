@@ -130,3 +130,8 @@ dmypy.json
 
 # Data
 /dataset/data/
+/dataset/labels/
+
+*.rar
+
+*.csv
