@@ -134,4 +134,5 @@ dmypy.json
 *.csv
 *.rar
 *.pth
-dataset/labels/*.txt
+*.txt
+dataset/VOC_dataset/
