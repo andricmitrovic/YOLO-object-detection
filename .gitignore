@@ -135,4 +135,5 @@ dmypy.json
 *.rar
 *.pth
 *.txt
+*.png
 dataset/VOC_dataset/
